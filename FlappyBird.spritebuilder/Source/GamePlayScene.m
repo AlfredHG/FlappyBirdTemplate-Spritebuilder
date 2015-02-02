@@ -24,7 +24,7 @@
         timeSinceObstacle = 0.0f;
     }
 }
-
+//https://www.makeschool.com/academy/week/1/step/7
 // put new methods here
 - (void)touchBegan:(CCTouch *)touch withEvent:(CCTouchEvent *)event {
     // this will get called every time the player touches the screen
